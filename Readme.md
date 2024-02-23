@@ -33,7 +33,3 @@ This simple Python script calculates weekly income after tax based on user input
 ## Dependencies
 
 - [inquirer](https://github.com/magmax/python-inquirer) - A Python package used for interactive command line user interfaces.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
